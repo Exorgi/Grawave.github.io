@@ -1,6 +1,11 @@
 {
-    "title":"Blog Title",
-    "subTitle":"Blog description",
-    "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "GMEEK_VERSION":"last"
+  "title": "Exorgi 的博客",
+  "subTitle": "记录代码、声音，以及把想法做成工具的过程。",
+  "avatarUrl": "https://raw.githubusercontent.com/Exorgi/Grawave.github.io/main/1788183497402.jpeg",
+  "GMEEK_VERSION": "last",
+  "onePageListNum": 10,
+  "i18n": "CN",
+  "UTC": 8,
+  "urlMode": "pinyin",
+  "bottomText": "保持好奇，持续记录"
 }
